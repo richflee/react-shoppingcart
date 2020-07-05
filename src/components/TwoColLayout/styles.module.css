@@ -1,0 +1,10 @@
+.container {
+  background: tomato;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.container>div {
+  text-align: left;
+}
